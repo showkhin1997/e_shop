@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "859647940173",
+    "firebase_url": "https://eshop-471f6.firebaseio.com",
+    "project_id": "eshop-471f6",
+    "storage_bucket": "eshop-471f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859647940173:android:a911c8c9feab15daa16e04",
+        "android_client_info": {
+          "package_name": "com.showkhin.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859647940173-nbckq6iq5sj9qc8l1davitij9qt16ai3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgf0KHqzTHVfI6JpZzAzEJRYSqz9w2V3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859647940173-nbckq6iq5sj9qc8l1davitij9qt16ai3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
